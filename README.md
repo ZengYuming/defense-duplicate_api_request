@@ -1,0 +1,2 @@
+# defense-duplicate_api_request
+防止由于服务器处理超时导致的客户端重复提交
